@@ -8,7 +8,7 @@ const AllUsers = () => {
     }
   return (
     <View>
-      <Text>AllUsers</Text>
+      <Text></Text>
     </View>
   )
 }
